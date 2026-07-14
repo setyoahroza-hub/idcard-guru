@@ -1,16 +1,15 @@
-{
-    "id":"001",
-    "nama":"Ahmad Syahputra",
-    "gelar":"S.Pd",
-    "jabatan":"Guru Matematika",
-    "mapel":"Matematika",
-    "email":"ahmad@citraharapan.sch.id",
-    "telepon":"0812xxxxxxxx",
-    "jk":"Laki-laki",
-    "nik":"127xxxxxxxxxxxx",
-    "tempat":"Medan",
-    "lahir":"15 Mei 1988",
-    "nuptk":"123456789",
-    "unit":"SMA Citra Harapan",
-    "foto":"foto/001.jpeg"
-}
+[
+    {
+        "id":"001",
+        "nama":"Ahmad Syahputra",
+        "gelar":"S.Pd",
+        "jabatan":"Guru Matematika",
+        "jk":"Laki-laki",
+        "nik":"127xxxxxxxxxxxx",
+        "tempat":"Medan",
+        "lahir":"15 Mei 1988",
+        "nuptk":"123456789",
+        "unit":"SMA Citra Harapan",
+        "foto":"foto/001.jpeg"
+    }
+]
