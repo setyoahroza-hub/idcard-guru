@@ -1,65 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,sans-serif;
+}
+
 body{
 
-    background:#f1f5f9;
-    font-family:Arial, Helvetica, sans-serif;
+    background:#e8f5e9;
 
     display:flex;
+
     justify-content:center;
+
     align-items:center;
 
     min-height:100vh;
+
+    padding:20px;
 
 }
 
 .card{
 
-    width:400px;
     background:white;
 
-    border-radius:15px;
+    width:100%;
+
+    max-width:430px;
+
+    border-radius:20px;
+
+    overflow:hidden;
 
     box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
+.header{
+
+    background:linear-gradient(135deg,#2E7D32,#43A047);
+
+    color:white;
+
+    text-align:center;
 
     padding:25px;
 
 }
 
-img{
+.logo{
 
-    width:170px;
-    height:170px;
+    width:90px;
 
-    object-fit:cover;
+    height:90px;
 
-    border-radius:50%;
+    object-fit:contain;
 
-    display:block;
-
-    margin:auto;
-
-    border:5px solid #2563eb;
+    margin-bottom:10px;
 
 }
 
-h2{
+.header h1{
+
+    font-size:20px;
+
+    letter-spacing:2px;
+
+}
+
+.header h2{
+
+    font-size:15px;
+
+    margin-top:5px;
+
+    font-weight:400;
+
+}
+
+.profile{
 
     text-align:center;
 
-    color:#2563eb;
+    margin-top:-45px;
+
+    padding:20px;
 
 }
 
-table{
+.foto{
 
-    width:100%;
-    border-collapse:collapse;
+    width:150px;
+
+    height:150px;
+
+    border-radius:50%;
+
+    border:6px solid white;
+
+    object-fit:cover;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
 
 }
 
-td{
+.profile h2{
 
-    padding:10px;
+    margin-top:15px;
 
-    border-bottom:1px solid #ddd;
+    color:#2E7D32;
+
+}
+
+.profile h3{
+
+    color:#777;
+
+    margin-top:5px;
+
+    font-weight:500;
+
+}
+
+.section-title{
+
+    background:#FDD835;
+
+    padding:12px;
+
+    text-align:center;
+
+    font-weight:bold;
+
+    color:#222;
+
+}
+
+.item{
+
+    padding:15px 20px;
+
+    border-bottom:1px solid #eee;
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+.item span{
+
+    color:#777;
+
+    font-size:13px;
+
+}
+
+.item strong{
+
+    margin-top:5px;
+
+    color:#222;
+
+    font-size:17px;
+
+}
+
+.footer{
+
+    padding:20px;
+
+    text-align:center;
+
+    color:#777;
+
+    font-size:13px;
 
 }
