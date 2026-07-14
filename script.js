@@ -1,37 +1,41 @@
-const id = new URLSearchParams(window.location.search).get("id");
+const params = new URLSearchParams(window.location.search);
 
-async function loadGuru() {
-  try {
-    const response = await fetch("./data.json");
+const id = params.get("id");
 
-    console.log("Status:", response.status);
+fetch("data.json")
 
-    const data = await response.json();
+.then(res => res.json())
 
-    console.log(data);
+.then(data=>{
 
-    const guru = data.find(item => item.id === id);
+    const guru=data.find(g=>g.id===id);
 
-    console.log(guru);
+    if(!guru){
 
-    if (!guru) {
-      document.getElementById("nama").textContent = "Guru tidak ditemukan";
-      return;
+        document.body.innerHTML="<h2 style='text-align:center;margin-top:50px'>Data Guru Tidak Ditemukan</h2>";
+
+        return;
+
     }
 
-    document.getElementById("foto").src = guru.foto;
-    document.getElementById("nama").textContent = guru.nama;
-    document.getElementById("jk").textContent = guru.jk;
-    document.getElementById("nik").textContent = guru.nik;
-    document.getElementById("tempat").textContent = guru.tempat;
-    document.getElementById("lahir").textContent = guru.lahir;
-    document.getElementById("nuptk").textContent = guru.nuptk;
-    document.getElementById("unit").textContent = guru.unit;
+    document.getElementById("foto").src=guru.foto;
 
-  } catch (err) {
-    console.error(err);
-    document.getElementById("nama").textContent = err.message;
-  }
-}
+    document.getElementById("nama").textContent=guru.nama+", "+guru.gelar;
 
-loadGuru();
+    document.getElementById("nama2").textContent=guru.nama;
+
+    document.getElementById("jabatan").textContent=guru.jabatan;
+
+    document.getElementById("jk").textContent=guru.jk;
+
+    document.getElementById("nik").textContent=guru.nik;
+
+    document.getElementById("tempat").textContent=guru.tempat;
+
+    document.getElementById("lahir").textContent=guru.lahir;
+
+    document.getElementById("nuptk").textContent=guru.nuptk;
+
+    document.getElementById("unit").textContent=guru.unit;
+
+});
