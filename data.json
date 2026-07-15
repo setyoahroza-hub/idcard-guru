@@ -2,6 +2,7 @@
     {
         "id": "001",
         "nama": "AFIFAH HIJRINA NST., S.S., M.M",
+        "gelar": "",
         "jabatan": "KEPALA SEKOLAH",
         "jk": "Perempuan",
         "nik": "1207266109870010",
@@ -9,11 +10,12 @@
         "lahir": "21 September 1987",
         "nuptk": "0253765666300053",
         "unit": "Yayasan Citra Harapan Jaya",
-        "foto": "foto/AFIFAH HIJRINA NST., S.S., M.M.jpeg"
+         "foto": "foto/AFIFAH HIJRINA NST., S.S., M.M.jpeg"
     },
     {
         "id": "002",
         "nama": "AMAL AL AMIN, ST",
+        "gelar": "",
         "jabatan": "BENDAHARA YAYASAN / SARPRAS SMK",
         "jk": "Laki-laki",
         "nik": "1219071204880002",
@@ -26,6 +28,7 @@
     {
         "id": "003",
         "nama": "ARIA INDRESWARI HENDRO, S.Pd",
+        "gelar": "",
         "jabatan": "GURU IPAS & IPA",
         "jk": "Perempuan",
         "nik": "1207265107830002",
@@ -38,6 +41,7 @@
     {
         "id": "004",
         "nama": "ASIAH OKTARINA HARAHAP, S.Kom",
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF TKJ",
         "jk": "Perempuan",
         "nik": "1277016810960002",
@@ -50,6 +54,7 @@
     {
         "id": "005",
         "nama": "DENY DAMARA, ST",
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF OTOMOTIF",
         "jk": "Laki-laki",
         "nik": "1207260806970003",
@@ -62,7 +67,7 @@
     {
         "id": "006",
         "nama": "DINDA LESTARI NASUTION, S.Psi",
-        
+        "gelar": "",
         "jabatan": "GURU BIMBINGAN KONSELING ",
         "jk": "Perempuan",
         "nik": "None",
@@ -75,7 +80,7 @@
     {
         "id": "007",
         "nama": "EKO SAIGABE, ST",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF OTOMOTIF",
         "jk": "Laki-laki",
         "nik": "1207271005920001",
@@ -88,7 +93,7 @@
     {
         "id": "008",
         "nama": "FITRI HANDAYANI",
-        
+        "gelar": "",
         "jabatan": "OPERATOR ",
         "jk": "Perempuan",
         "nik": "1271066004920005",
@@ -101,7 +106,7 @@
     {
         "id": "009",
         "nama": "ATIKAH RAHMI NASUTION, ST",
-        
+        "gelar": "",
         "jabatan": "BENDAHARA",
         "jk": "Perempuan",
         "nik": "1207264705860008",
@@ -114,7 +119,7 @@
     {
         "id": "010",
         "nama": "KURNIA SANDI, S.Ag",
-        
+        "gelar": "",
         "jabatan": "GURU PEND. AGAMA ISLAM",
         "jk": "Laki-laki",
         "nik": "1207261509960011",
@@ -127,7 +132,7 @@
     {
         "id": "011",
         "nama": "LIDYA HANDAYANI BR. PINEM, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU SENI BUDAYA",
         "jk": "Perempuan",
         "nik": "None",
@@ -140,7 +145,7 @@
     {
         "id": "012",
         "nama": "M. IHSAN SIREGAR, S.Kom",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF TKJ",
         "jk": "Laki-laki",
         "nik": "1271092805010002",
@@ -153,7 +158,7 @@
     {
         "id": "013",
         "nama": "MAISYARAH, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU MATEMATIKA",
         "jk": "Perempuan",
         "nik": "1207264706890002",
@@ -166,7 +171,7 @@
     {
         "id": "014",
         "nama": "MUHAMMAD ARIANTA SEMBIRING, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PEND. JASMANI, OLAHRAGA DAN KESEHATAN ",
         "jk": "Laki-laki",
         "nik": "1207262310000013",
@@ -179,7 +184,7 @@
     {
         "id": "015",
         "nama": "MUHAMMAD FAHMI, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PIKET",
         "jk": "Laki-laki",
         "nik": "1218090512870007",
@@ -192,7 +197,7 @@
     {
         "id": "016",
         "nama": "NIRWANA MANDALA SARI SIREGAR, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF MANAJEMEN PERKANTORAN",
         "jk": "Perempuan",
         "nik": "1209186006940002",
@@ -205,7 +210,7 @@
     {
         "id": "017",
         "nama": "NURAISYAH HIDAYATI, S.Kom",
-        
+        "gelar": "",
         "jabatan": "W.K. BID. KURIKULUM",
         "jk": "Perempuan",
         "nik": "1207266509840006",
@@ -218,7 +223,7 @@
     {
         "id": "018",
         "nama": "OKTAVIA FAHRINA LUBIS, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU SEJARAH & EKONOMI",
         "jk": "Perempuan",
         "nik": "1271145110930004",
@@ -231,7 +236,7 @@
     {
         "id": "019",
         "nama": "PRATIWI RESKY HANDAYANI, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF MANAJEMEN PERKANTORAN",
         "jk": "Perempuan",
         "nik": "1271184404990003",
@@ -244,7 +249,7 @@
     {
         "id": "020",
         "nama": "RIANI ",
-        
+        "gelar": "",
         "jabatan": "KASIR",
         "jk": "Perempuan",
         "nik": "1207267001030004",
@@ -257,7 +262,7 @@
     {
         "id": "021",
         "nama": "RIZAL SAHPUTRA SIGALINGGING, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU MATEMATIKA",
         "jk": "Laki-laki",
         "nik": "1205190905990001",
@@ -270,7 +275,7 @@
     {
         "id": "022",
         "nama": "SETYO AHROZA",
-        
+        "gelar": "",
         "jabatan": "TATA USAHA",
         "jk": "Laki-laki",
         "nik": "1207261812030004",
@@ -278,12 +283,12 @@
         "lahir": "18 December 2003",
         "nuptk": "",
         "unit": "Yayasan Citra Harapan Jaya",
-        "foto": "foto/022.JPG"
+        "foto": "foto/022.jpeg"
     },
     {
         "id": "023",
         "nama": "SITI CHAIRUNA, S.Pd.I",
-        
+        "gelar": "",
         "jabatan": "GURU BAHASA INGGRIS",
         "jk": "Perempuan",
         "nik": "1207265109850009",
@@ -296,7 +301,7 @@
     {
         "id": "024",
         "nama": "SURYANI SITORUS, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU BAHASA INDONESIA",
         "jk": "Perempuan",
         "nik": "1271185310880001",
@@ -309,7 +314,7 @@
     {
         "id": "025",
         "nama": "WIDIA SELLA, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF DPB",
         "jk": "Perempuan",
         "nik": "1206145409010001",
@@ -322,7 +327,7 @@
     {
         "id": "026",
         "nama": "WINA ADHA, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PRODUKTIF DPB",
         "jk": "Perempuan",
         "nik": "1209084705950001",
@@ -335,7 +340,7 @@
     {
         "id": "027",
         "nama": "IVAN PANGESTU TAMPUBOLON, S.Pd",
-        
+        "gelar": "",
         "jabatan": "GURU PEND. AGAMA KRISTEN",
         "jk": "Laki-laki",
         "nik": "None",
@@ -348,7 +353,7 @@
     {
         "id": "028",
         "nama": "M. HUSNUL FADHILLAH NST, S.S",
-        
+        "gelar": "",
         "jabatan": "KETUA YAYASAN CITRA HARAPAN JAYA",
         "jk": "Laki-laki",
         "nik": "None",
@@ -361,7 +366,7 @@
     {
         "id": "029",
         "nama": "NUR NAHAR HUTABARAT, M.Pd",
-        
+        "gelar": "",
         "jabatan": "KEPALA SEKOLAH",
         "jk": "Perempuan",
         "nik": "None",
@@ -374,7 +379,7 @@
     {
         "id": "030",
         "nama": "NURLELA BR PURBA, S.Pd., M.Si",
-        
+        "gelar": "",
         "jabatan": "KEPALA SEKOLAH",
         "jk": "Perempuan",
         "nik": "None",
@@ -387,7 +392,7 @@
     {
         "id": "031",
         "nama": "RAMADAN",
-        
+        "gelar": "",
         "jabatan": "SATPAM",
         "jk": "Laki-laki",
         "nik": "1271030909930008",
